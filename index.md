@@ -1,4 +1,4 @@
-# Capstone Example Jekyll Website
+# Liam Manatt, lmanatt@ucsd.edu, Rose Yu and Yian Ma
 **1. What is the most interesting topic covered in your domain this quarter?**
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
