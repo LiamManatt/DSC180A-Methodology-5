@@ -10,6 +10,7 @@ For quarter 2, I would like to investigate implementing batch active learning, v
 **3. What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
 
 In quarter 1, we spent a lot of time learning about the Google Cloud Platform, as our project is much more in infrastructure building, rather than novel coding. For me, this meant creating a lot of minimal functioning tests and demos, which are not something that I want to carry on to quarter 2. In quarter 2, I hope to create and structure my code in a much more permanent fashion.
+
 **4. What other techniques would you be interested in using in your project?**
 
 I would be highly interested in databasing techniques to help the overall infrastructure of our training scheme as well as make important data, such as effects of different policy changes, more publically available and easily attainable.
